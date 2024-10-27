@@ -10,3 +10,8 @@ OpenHammer allows you to;
 2. Play games of any size or with any combination of players and 'sides'.
 3. Choose what terrain does from simply LOS blocking to complex multi effect pieces, based on the complexity of game you wish to play.
 4. Mutate the core rules of the game on a game by game basis. Eg. Double shooting range, night fighting, low/high gravity, etc.
+
+This Ruleset is still very much in a WIP state with some features still unpublished or unfinished. Please bear with me as I work through the backlog of TODO items. 
+I am but one lowley scrivener.
+
+-Unity
