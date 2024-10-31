@@ -1,14 +1,9 @@
 Welcome to OpenHammer!
 
 What is OpenHammer?
-
 OpenHammer is a miniature agnostic tabletop wargame rules set based around the Warhammer science fantasy setting. 
 It leans into the fluff in order to give us all the wargame we have always wanted, within a streamlined and unique ruleset.
 I (Unity) wrote the bulk of it in 2022 and have been iterating on it over the years.
-
-Why is OpneHammer?
-
-
 
 OpenHammer allows you to;
 1. [Under Construction] Create your own faction or army in a points balenced system. [Under Construction]
