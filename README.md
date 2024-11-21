@@ -15,11 +15,11 @@ This Ruleset is still very much in a WIP state with some features still unpublis
 I am but one lowley scrivener.
 
 Latest version upload: V0.5.2 on 20/11/24
-> Added Table of Content
-> Added scenario concepts
-> Added casual scenario rules
-> Added some mutators
-> Added Deployment Zone map creator (Scenarios/Mission Creator.xcf, GIMP Project File)
-> Added .odt file (OpenOffice file format) as the .docx file does not preserve some formatting around images and the Table of Content.
+* Added Table of Content
+* Added scenario concepts
+* Added casual scenario rules
+* Added some mutators
+* Added Deployment Zone map creator (Scenarios/Mission Creator.xcf, GIMP Project File)
+* Added .odt file (OpenOffice file format) as the .docx file does not preserve some formatting around images and the Table of Content.
 
 -Unity
