@@ -20,9 +20,9 @@ if you are interested in how the preverbial omlette is made or if you wish to co
 
 https://www.twitch.tv/openhammer_
 
-Sunday: 19:00 GMT - 01:00 GMT
-Monday: 19:00 GMT - 01:00 GMT
-Wednesday: 19:00 GMT - 01:00 GMT
+* Sunday: 19:00 GMT - 01:00 GMT
+* Monday: 19:00 GMT - 01:00 GMT
+* Wednesday: 19:00 GMT - 01:00 GMT
 
 
 ---
