@@ -13,8 +13,9 @@ OpenHammer allows you to;
 
 This Ruleset is still very much in a WIP state with some features still unpublished or unfinished. Please bear with me as I work through the backlog of TODO items. 
 I am but one lowley scrivener.
+  
 
-
+    
 Watch Development LIVE!  
 I have started live streaming the development of OpenHammer on Twitch.tv 3 times a week!
 if you are interested in how the preverbial omlette is made or if you wish to contribute then come on down.
