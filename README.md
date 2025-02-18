@@ -19,6 +19,7 @@ I have started live streaming the development of OpenHammer on Twitch.tv 3 times
 if you are interested in how the preverbial omlette is made or if you wish to contribute then come on down.
 
 https://www.twitch.tv/openhammer_
+
 Sunday: 19:00 GMT - 01:00 GMT
 Monday: 19:00 GMT - 01:00 GMT
 Wednesday: 19:00 GMT - 01:00 GMT
