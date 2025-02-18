@@ -1,11 +1,11 @@
 # OpenHammer V0.6- An Open Source Ruleset for Grimdark Miniature Games
 
-What is OpenHammer?
+What is OpenHammer?  
 OpenHammer is a miniature agnostic tabletop wargame rules set based around the Warhammer science fantasy setting. 
 It leans into the fluff in order to give us all the wargame we have always wanted, within a streamlined and unique ruleset.
 I (Unity) wrote the bulk of it in 2022 and have been iterating on it over the years.
 
-OpenHammer allows you to;
+OpenHammer allows you to;  
 * [Under Construction] Create your own faction or army in a robust points balenced system. [Under Construction]
 * Play games of any size or with any combination of players and 'sides'.
 * Choose what terrain does from simply LOS blocking to complex multi effect pieces, based on the complexity of game you wish to play.
@@ -14,12 +14,12 @@ OpenHammer allows you to;
 This Ruleset is still very much in a WIP state with some features still unpublished or unfinished. Please bear with me as I work through the backlog of TODO items. 
 I am but one lowley scrivener.
 
-Watch Development LIVE!
+
+Watch Development LIVE!  
 I have started live streaming the development of OpenHammer on Twitch.tv 3 times a week!
 if you are interested in how the preverbial omlette is made or if you wish to contribute then come on down.
 
-https://www.twitch.tv/openhammer_
-
+https://www.twitch.tv/openhammer_  
 * Sunday: 19:00 GMT - 01:00 GMT
 * Monday: 19:00 GMT - 01:00 GMT
 * Wednesday: 19:00 GMT - 01:00 GMT
