@@ -14,6 +14,16 @@ OpenHammer allows you to;
 This Ruleset is still very much in a WIP state with some features still unpublished or unfinished. Please bear with me as I work through the backlog of TODO items. 
 I am but one lowley scrivener.
 
+Watch Development LIVE!
+I have started live streaming the development of OpenHammer on Twitch.tv 3 times a week!
+if you are interested in how the preverbial omlette is made or if you wish to contribute then come on down.
+
+https://www.twitch.tv/openhammer_
+Sunday: 19:00 GMT - 01:00 GMT
+Monday: 19:00 GMT - 01:00 GMT
+Wednesday: 19:00 GMT - 01:00 GMT
+
+
 ---
 Latest version upload: V0.6 on 27/12/24
 * OpenHammer is now feature complete for casual games!!
