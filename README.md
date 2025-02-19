@@ -27,7 +27,14 @@ https://www.twitch.tv/openhammer_
 
 
 ---
-Latest version upload: V0.6 on 27/12/24
+Latest version upload: V0.75 on 19/02/2025
+* The Army Creation Toolkit has been realeased!
+* Version control added to all upcoming Army Books to handle any changes to the ACT points costs or methodology.
+* Imperial Army - Army Book depreciated. Points and formatting changes to come.
+* Partial Space Marine - Army Book depreciated. Points and formatting changes to come.
+* 10mm mutator added to core rules
+  
+version upload: V0.6 on 27/12/24
 * OpenHammer is now feature complete for casual games!!
 * Finished casual game scenarios
 * Added Secondary Objectives to casual scenarios
