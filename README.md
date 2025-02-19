@@ -1,4 +1,4 @@
-# OpenHammer V0.6- An Open Source Ruleset for Grimdark Miniature Games
+# OpenHammer V0.75- An Open Source Ruleset for Grimdark Miniature Games
 
 What is OpenHammer?  
 OpenHammer is a miniature agnostic tabletop wargame rules set based around the Warhammer science fantasy setting. 
