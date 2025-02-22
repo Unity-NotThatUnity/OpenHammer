@@ -1,4 +1,4 @@
-# OpenHammer V0.75- An Open Source Ruleset for Grimdark Miniature Games
+# OpenHammer V0.79- An Open Source Ruleset for Grimdark Miniature Games
 
 What is OpenHammer?  
 OpenHammer is a miniature agnostic tabletop wargame rules set based around the Warhammer science fantasy setting. 
@@ -27,7 +27,14 @@ https://www.twitch.tv/openhammer_
 
 
 ---
-Latest version upload: V0.75 on 19/02/2025
+Latest version upload: V0.75 on 22/02/2025
+* Tweeked pistol core rules
+* updated ACT to v1.01
+* Clarified ACT rules
+* slight ACT ponits change
+* lots of writing changes
+
+Version upload: V0.75 on 19/02/2025
 * The Army Creation Toolkit has been realeased!
 * Version control added to all upcoming Army Books to handle any changes to the ACT points costs or methodology.
 * Imperial Army - Army Book depreciated. Points and formatting changes to come.
