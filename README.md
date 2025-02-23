@@ -27,7 +27,7 @@ https://www.twitch.tv/openhammer_
 
 
 ---
-Latest version upload: V0.75 on 22/02/2025
+Latest version upload: V0.79 on 22/02/2025
 * Tweeked pistol core rules
 * updated ACT to v1.01
 * Clarified ACT rules
