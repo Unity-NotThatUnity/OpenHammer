@@ -11,13 +11,13 @@ OpenHammer allows you to;
 * Choose what terrain does from simply LOS blocking to complex multi effect pieces, based on the complexity of game you wish to play.
 * Mutate the core rules of the game on a game by game basis. Eg. Double shooting range, night fighting, low/high gravity, etc.
 
+This Ruleset is still very much in a WIP state with some features still unpublished or unfinished. Please bear with me as I work through the backlog of TODO items. 
+I am but one lowley scrivener.
+
 ---
 
 Experemental Concepts
 * Currently we are experementing with 28mm Battletech rules, these can be found in the concepts folder.
-
-This Ruleset is still very much in a WIP state with some features still unpublished or unfinished. Please bear with me as I work through the backlog of TODO items. 
-I am but one lowley scrivener.
   
 ---
     
