@@ -15,6 +15,11 @@ This Ruleset is still very much in a WIP state with some features still unpublis
 I am but one lowley scrivener.
 
 ---
+Completed Army Books
+* Imperial Army - 100%
+* Space Marine - 50%
+* Great Devourer - 15%
+---
 
 Experemental Concepts
 * Currently we are experementing with 28mm Battletech rules, these can be found in the concepts folder.
@@ -26,10 +31,9 @@ I have started live streaming the development of OpenHammer on Twitch.tv 3 times
 if you are interested in how the preverbial omlette is made or if you wish to contribute then come on down.
 
 https://www.twitch.tv/openhammer_  
-* Sunday: 19:00 GMT - 01:00 GMT
-* Monday: 19:00 GMT - 01:00 GMT
-* Wednesday: 19:00 GMT - 01:00 GMT
-
+* Sunday: 19:00 GMT - 01:00 GMT - European Stream
+* Monday: 18:00 PST - 00:00 PST - American Stream
+* Wednesday: 19:00 GMT - 01:00 GMT - European Stream
 
 ---
 Latest version upload: V0.79 on 22/02/2025
