@@ -46,7 +46,7 @@ https://www.twitch.tv/openhammer_
 * lots of writing changes
 
 Version upload: V0.75 on 19/02/2025
-* The Army Creation Toolkit has been realeased!
+* The Army Creation Toolkit has been released!
 * Version control added to all upcoming Army Books to handle any changes to the ACT points costs or methodology.
 * Imperial Army - Army Book depreciated. Points and formatting changes to come.
 * Partial Space Marine - Army Book depreciated. Points and formatting changes to come.
