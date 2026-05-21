@@ -6,13 +6,13 @@ It leans into the fluff in order to give us all the wargame we have always wante
 I (Unity) wrote the bulk of it in 2022 and have been iterating on it over the years.
 
 ### OpenHammer allows you to;  
-* Create your own faction or army in a robust points balenced system.
+* Create your own faction or army in a robust points balanced system.
 * Play games of any size or with any combination of players and 'sides'.
 * Choose what terrain does from simply LOS blocking to complex multi effect pieces, based on the complexity of game you wish to play.
 * Mutate the core rules of the game on a game by game basis. Eg. Double shooting range, night fighting, low/high gravity, etc.
 
 This Ruleset is still very much in a WIP state with some features still unpublished or unfinished. Please bear with me as I work through the backlog of TODO items. 
-I am but one lowley scrivener.
+I am but one lowly scrivener.
 
 ---
 
@@ -24,25 +24,14 @@ I am but one lowley scrivener.
 ---
 
 ### Experemental Concepts
-* Currently we are experementing with 28mm Battletech rules, these can be found in the concepts folder.
-  
----
-    
-### Watch Development LIVE!  
-I have started live streaming the development of OpenHammer on Twitch.tv 3 times a week!
-if you are interested in how the preverbial omlette is made or if you wish to contribute then come on down.
-
-https://www.twitch.tv/openhammer_  
-* Sunday: 19:00 GMT - 01:00 GMT - European Stream
-* Monday: 18:00 PST - 00:00 PST - American Stream
-* Wednesday: 19:00 GMT - 01:00 GMT - European Stream
+* Currently we are experimenting with 28mm Battletech rules, these can be found in the concepts folder.
 
 ---
 #### Latest version upload: V0.79 on 22/02/2025
-* Tweeked pistol core rules
+* Tweaked pistol core rules
 * updated ACT to v1.01
 * Clarified ACT rules
-* slight ACT ponits change
+* slight ACT points change
 * lots of writing changes
 
 Version upload: V0.75 on 19/02/2025
@@ -86,4 +75,4 @@ This work is licensed under a
 
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
-[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+[cc-by-sa-shield]: https://img.shields.io/badge/License-C
